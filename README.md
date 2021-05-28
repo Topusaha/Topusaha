@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Topusaha
 - 👀 I’m interested in developing my skills as a programmer and problem solver.
-- 🌱 I’m currently learning data science modules.
+- 🌱 I’m currently learning data science modules, and web developement in preperation for my summer intern project.
 
 <!---
 Topusaha/Topusaha is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
