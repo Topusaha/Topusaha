@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Topusaha
 - 👀 I’m interested in developing my skills as a programmer and problem solver.
-- 🌱 I am currently learning algorithms and getting into web development after some exposure and expierence in data science.
-- 
+- 🌱 I am currently machine learning by reading Hands on Machine Learning with sklearn, Tensorflow, and Keras By Aurélien Géron.
 
 <!---
 Topusaha/Topusaha is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
