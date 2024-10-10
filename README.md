@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @Topusaha
-- 👀 I’m interested in developing my skills as a programmer and problem solver.
-- 🌱 I am currently machine learning by reading Hands on Machine Learning with sklearn, Tensorflow, and Keras By Aurélien Géron.
+- 👀 I’m interested in developing my skills as an engineer.
+- 🌱 I am currently working at The Walt Disney Company as a Software Engineer.
+
 
 <!---
 Topusaha/Topusaha is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
